@@ -2,8 +2,7 @@
 
 ## A little bit about me
   
-I am a curious person with a passion for learning and problem-solving. My current focus is on studying Information Technology (IT). I enjoy delving into complex issues to find innovative solutions. I find joy in acquiring new knowledge and skills. I'm currently studying .Net framework(SQL Server, C# and winforms) & Data analytics (R, Data Visualization, Data Analysis and Data cleaning). 
-- Currently enrolled in a technical course in system development, in the second module (there are 3 modules in total).
+I am a curious person with a passion for learning and problem-solving. My current focus is on studying Information Technology (IT). I enjoy delving into complex issues to find innovative solutions. I find joy in acquiring new knowledge and skills. I'm currently studying Software Engineering. 
 
 ## Hard Skills 
 
@@ -18,6 +17,8 @@ I am a curious person with a passion for learning and problem-solving. My curren
 ![MYSQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NetWinforms](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## Github Status
 
