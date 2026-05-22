@@ -14,7 +14,7 @@ Hello 👋 My current focus is on studying Software Development. I enjoy delving
 - MVC architecture, modular organization, and code reusability
 ### Databases
 - **MySQL**, **SQL Server**, and **PostgreSQL (Supabase)**
-- Complex queries, joins, performance optimization, and ORM (Eloquent)
+- Complex queries, joins, performance optimization, and ORM (Eloquent and Entity FrameWork)
 ### Frontend & Full Stack
 - **HTML, CSS, JavaScript, TypeScript** — functional and responsive web interfaces
 - Full integration between front-end and back-end layers
