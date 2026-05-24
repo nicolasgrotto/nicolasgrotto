@@ -4,14 +4,14 @@
 
 ## A little bit about me
   
-Hello 👋 My current focus is on studying Software Development. I enjoy delving into complex issues to find innovative solutions. I find joy in acquiring new knowledge and skills.
+Hello 👋 I enjoy delving into complex issues to find innovative solutions. I find joy in acquiring new knowledge and skills.
 
 ---
 
 ## 🛠️ Skills
  
 ### Backend & APIs
- **PHP (Laravel)** and **C# (.NET WinForms)** — complete systems with auth, business logic, and DB integration
+ **PHP (Laravel)**, **Python (FastAPI)** and **C# (.NET WinForms)** — complete systems with auth, business logic, and DB integration
  RESTful API development and consumption, including token-based auth and third-party integrations
  MVC architecture, modular organization, and code reusability
 
