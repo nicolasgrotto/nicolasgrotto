@@ -4,7 +4,7 @@
 
 ## A little bit about me
   
-Hello 👋 I'm a full-stack developer with a passion for programming😅 I'm always open to new connections and friendships, feel free to contact me if you'd like to connect 😉
+Hello 👋 I'm a full-stack developer with a passion for programming. I'm always open to new connections and friendships, feel free to contact me if you'd like to connect 😉
 
 ## 🌐 Connect with me 
 <a href="https://nicolasgrotto.github.io/landing-page-apresentacao/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> &nbsp;
