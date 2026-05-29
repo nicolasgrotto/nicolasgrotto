@@ -6,29 +6,16 @@
   
 Hello 👋 I enjoy delving into complex issues to find innovative solutions. I find joy in acquiring new knowledge and skills.
 
----
-
 ## 🛠️ Skills
- 
-### Backend & APIs
- **PHP (Laravel)**, **Python (FastAPI)** and **C# (.NET WinForms)** — complete systems with auth, business logic, and DB integration
- RESTful API development and consumption, including token-based auth and third-party integrations
- MVC architecture, modular organization, and code reusability
 
-### Databases
- **MySQL**, **SQL Server**, and **PostgreSQL (Supabase)**
- Complex queries, joins, performance optimization, and ORM (Eloquent and Entity Framework)
-
-### Frontend & Full Stack
- **HTML, CSS, JavaScript, TypeScript** — functional and responsive web interfaces
- Full integration between front-end and back-end layers
-
-### Automation & Integrations
- Automated workflows with **n8n**
- Multi-system integrations connecting different platforms and services
- Backend-as-a-service with **Supabase**
-
----
+| Category | Description | Main Technologies |
+| ------------ | ------------ | ------------ |
+| ⚙️ Backend & APIs | Building robust systems, RESTful APIs, authentication flows, business logic, and service integrations. | Laravel · FastAPI · .NET · REST APIs · JWT · MVC · RBAC |
+| 🗄️ Databases & Data Modeling | Relational data modeling, complex queries, performance optimization, and multi-tenant applications with access control. | PostgreSQL · MySQL · SQL Server · Supabase · Eloquent · EF Core · RLS |
+| 🌐 Frontend & Full Stack | Modern responsive interfaces with seamless integration between frontend and backend layers. | HTML · CSS · JavaScript · TypeScript · Full Stack |
+| ⚡ Automation & Integrations | Workflow automation and integrations between multiple systems using APIs and webhooks. | n8n · Webhooks · API Integrations · Workflow Automation |
+| ☁️ DevOps & Infrastructure | VPS configuration, Docker containers, deployment pipelines, and self-hosted environments management. | Docker · Linux · VPS · Deploy · Self-Hosted |
+| 🧠 AI Engineering | Building AI agents, intelligent automations, and integrations with modern AI platforms and services. | AI Agents · LLMs · Prompt Engineering · AI Workflows |
 
 ## Top languages/frameworks/platforms I know
 
