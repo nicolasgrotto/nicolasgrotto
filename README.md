@@ -4,7 +4,13 @@
 
 ## A little bit about me
   
-Hello 👋 I enjoy delving into complex issues to find innovative solutions. I find joy in acquiring new knowledge and skills.
+Hello 👋 I'm a full-stack developer with a passion for programming😅 I'm always open to new connections and friendships, feel free to contact me if you'd like to connect 😉
+
+## 🌐 Connect with me 
+<a href="https://nicolasgrotto.github.io/landing-page-apresentacao/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> &nbsp;
+<a href="https://www.linkedin.com/in/nicolas-grotto-2453b927b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<br>
 
 ## 🛠️ Skills
 
@@ -16,6 +22,8 @@ Hello 👋 I enjoy delving into complex issues to find innovative solutions. I f
 | ⚡ Automation & Integrations | Workflow automation and integrations between multiple systems using APIs and webhooks. | n8n · Webhooks · API Integrations · Workflow Automation |
 | ☁️ DevOps & Infrastructure | VPS configuration, Docker containers, deployment pipelines, and self-hosted environments management. | Docker · Linux · VPS · Deploy · Self-Hosted |
 | 🧠 AI Engineering | Building AI agents, intelligent automations, and integrations with modern AI platforms and services. | AI Agents · LLMs · Prompt Engineering · AI Workflows |
+
+<br>
 
 ## Top languages/frameworks/platforms I know
 
