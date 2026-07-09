@@ -1,38 +1,32 @@
 <div align="center">
 
-# Hello There! I'm Nicolas Oliveira!
+# Olá, eu sou o Nicolas Oliveira!
+## Um pouco sobre mim
 
-## A little bit about me
-  
-Hello 👋 I'm a full-stack developer with a passion for programming. I'm always open to new connections and friendships, feel free to contact me if you'd like to connect 😉
+Olá 👋 Sou desenvolvedor full-stack que curte muito programação. Estou sempre aberto a novas conexões e amizades, sinta-se à vontade para entrar em contato se quiser se conectar 😉
 
-## 🌐 Connect with me 
-<a href="https://nicolasgrotto.github.io/landing-page-apresentacao/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> &nbsp;
+## 🌐 Conecte-se comigo 
+<a href="https://nicolasgrotto.github.io/landing-page-apresentacao/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> &nbsp;
 <a href="https://www.linkedin.com/in/nicolas-grotto-2453b927b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
 <br>
 
-## 🛠️ Skills
-
-| Category | Description | Main Technologies |
+## 🛠️ Habilidades
+| Categoria | Descrição | Principais Tecnologias |
 | ------------ | ------------ | ------------ |
-| ⚙️ Backend & APIs | Building robust systems, RESTful APIs, authentication flows, business logic, and service integrations. | Laravel · FastAPI · .NET · REST APIs · JWT · MVC · RBAC |
-| 🗄️ Databases & Data Modeling | Relational data modeling, complex queries, performance optimization, and multi-tenant applications with access control. | PostgreSQL · MySQL · SQL Server · Supabase · Eloquent · EF Core · RLS |
-| 🌐 Frontend & Full Stack | Modern responsive interfaces with seamless integration between frontend and backend layers. | HTML · CSS · JavaScript · TypeScript · Full Stack |
-| ⚡ Automation & Integrations | Workflow automation and integrations between multiple systems using APIs and webhooks. | n8n · Webhooks · API Integrations · Workflow Automation |
-| ☁️ DevOps & Infrastructure | VPS configuration, Docker containers, deployment pipelines, and self-hosted environments management. | Docker · Linux · VPS · Deploy · Self-Hosted |
-| 🧠 AI Engineering | Building AI agents, intelligent automations, and integrations with modern AI platforms and services. | AI Agents · LLMs · Prompt Engineering · AI Workflows |
-
+| ⚙️ Backend & APIs | Construção de sistemas robustos, APIs RESTful, fluxos de autenticação, regras de negócio e integrações de serviços. | Laravel · FastAPI · .NET · REST APIs · JWT · MVC · RBAC |
+| 🗄️ Bancos de Dados & Modelagem de Dados | Modelagem de dados relacional, queries complexas, otimização de performance e aplicações multi-tenant com controle de acesso. | PostgreSQL · MySQL · SQL Server · Supabase · Eloquent · EF Core · RLS |
+| 🌐 Frontend & Full Stack | Interfaces modernas e responsivas com integração perfeita entre as camadas de frontend e backend. | HTML · CSS · JavaScript · TypeScript · Full Stack |
+| ⚡ Automação & Integrações | Automação de fluxos de trabalho e integrações entre múltiplos sistemas usando APIs e webhooks. | n8n · Webhooks · API Integrations · Workflow Automation |
+| ☁️ DevOps & Infraestrutura | Configuração de VPS, containers Docker, pipelines de deploy e gerenciamento de ambientes self-hosted. | Docker · Linux · VPS · Deploy · Self-Hosted |
+| 🧠 Engenharia de IA | Construção de agentes de IA, automações inteligentes e integrações com plataformas e serviços de IA modernos. | AI Agents · LLMs · Prompt Engineering · AI Workflows |
 <br>
 
-## Top languages/frameworks/platforms I know
-
-| # | Framework / Platform | Language |
+## Principais linguagens/frameworks/plataformas que conheço
+| # | Framework / Plataforma | Linguagem |
 |---|---|---|
 | 1 | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
 | 2 | ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
 | 3 | ![.NET WinForms](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
-
 <br>
 
 <picture>
