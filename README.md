@@ -6,7 +6,7 @@
 Olá 👋 Sou desenvolvedor full-stack que curte muito programação. Estou sempre aberto a novas conexões e amizades, sinta-se à vontade para entrar em contato se quiser se conectar 😉
 
 ## 🌐 Conecte-se comigo 
-<a href="https://nicolasgrotto.github.io/landing-page-apresentacao/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> &nbsp;
+<a href="https://nicolasgrotto.github.io/portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /> </a> &nbsp;
 <a href="https://www.linkedin.com/in/nicolas-grotto-2453b927b/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <br>
 
