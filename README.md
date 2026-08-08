@@ -1,60 +1,76 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     NICOLAS OLIVEIRA · GITHUB PROFILE
+     Palette: #031A2D · #0B1020 · #00D9FF · #38BDF8 · #E6F1FF
+     ═══════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031A2D,100:00D9FF&height=240&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=E6F1FF&animation=twinkling&fontAlignY=35" width="100%" alt="Banner de inicialização do sistema" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031A2D,55:0B4F6C,100:00D9FF&height=250&section=header&text=NICOLAS%20OLIVEIRA&fontSize=52&fontColor=E6F1FF&fontAlignY=33&animation=twinkling&desc=FULL%20STACK%20%20//%20%20N8N%20AUTOMATION%20%20//%20%20BACKEND%20FOCUSED&descSize=15&descAlignY=52" width="100%" alt="Banner de inicialização do sistema" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%3E+booting+system+core+.+.+.;%3E+loading+stack%3A+python+%7C+fastapi+%7C+laravel+%7C+next.js;%3E+authenticating+user%3A+nicolasgrotto+%5B+OK+%5D;%3E+all+systems+online+%5B+100%25+%5D" alt="Sequência de boot" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=3200\&pause=900\&color=00D9FF\&center=true\&vCenter=true\&multiline=true\&width=1000\&height=120\&lines=Olá%2C+eu+sou+o+Nicolas+Oliveira.;Backend+Engineer+%7C+AI+Automation+%7C+SaaS+Builder.;Construindo+produtos+escaláveis+com+APIs%2C+IA+e+automação.;Sempre+aprendendo+mais+sobre+arquitetura%2C+DevOps+e+engenharia+de+software.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=940&height=60&lines=Full-Stack+Developer+%7C+AI+Automation+%7C+Backend-Focused;Construindo+produtos+escal%C3%A1veis+com+APIs%2C+IA+e+automa%C3%A7%C3%A3o;Arquitetura+de+software%2C+DevOps+e+engenharia+de+verdade" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Status-ONLINE-00D9FF?style=for-the-badge&logo=ghost&logoColor=white" />
-<img src="https://img.shields.io/badge/Foco-Full_Stack-38BDF8?style=for-the-badge&logo=codefactor&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-ONLINE-00D9FF?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Foco-Full_Stack-38BDF8?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0B1020" />
+<img src="https://img.shields.io/badge/Local-Brasil-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1020" />
 
 </div>
 
 ---
 
-## <span style="color:#00D9FF">Sobre Mim</span>
+## `▸` &nbsp; SOBRE MIM
 
-> Desenvolvedor que curte construir sistemas modernos, interfaces inteligentes e automações que resolvem problemas reais.
+```python
+class NicolasOliveira:
+    def __init__(self):
+        self.role      = "Backend Engineer · Full Stack Developer"
+        self.location  = "São Paulo, Brasil 🇧🇷"
+        self.focus     = ["APIs robustas", "Arquitetura de software",
+                          "Multi-tenant", "IA aplicada à automação"]
+        self.stack     = ["Python", "FastAPI", "Laravel", "TypeScript",
+                          "Next.js", "PostgreSQL"]
+        self.mindset   = "Código limpo, arquitetura em camadas, zero gambiarra"
 
-Atualmente, meu foco está em:
+    def say_hi(self):
+        return "Sempre aberto a novas conexões e bons projetos 🤝"
 
-* APIs robustas e bem estruturadas
-* Arquitetura de software
-* Sistemas multi-tenant
-* Automação com IA e integrações
-* Infraestrutura, deploy e ambientes self-hosted
 
-Estou sempre buscando evoluir em backend, engenharia de software e soluções com alto padrão visual e técnico.
+me = NicolasOliveira()
+print(me.say_hi())
+```
 
----
-
-## TECH STACK
-⚙️ Backend & APIs
-
-<div> <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,cs" /> </div>
-
-🌐 Frontend & UI
-
-<div> <img src="https://skillicons.dev/icons?i=html,css,js,ts,next" /> </div>
-
-🗄️ Database & Data
-
-<div> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis" /> </div>
-
-⚡ Automation, Infrastructure & DevOps
-
-<div> <img src="https://skillicons.dev/icons?i=docker,postman,linux,git,github" />  </div>
-
-🧠 AI & Integrations
-
-<div> <img src="https://img.shields.io/badge/AI_Agents-00D9FF?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-38BDF8?style=flat-square&logo=googlebard&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-0B1020?style=flat-square&logo=postman&logoColor=00D9FF" /> <img src="https://img.shields.io/badge/Webhooks-0B1020?style=flat-square&logo=webhooks&logoColor=00D9FF" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> </div>
+> **`//`** Desenvolvedor que curte construir sistemas modernos, interfaces inteligentes e automações que resolvem problemas reais.
 
 ---
 
-## <span style="color:#00D9FF">Projetos em Destaque</span>
+## `▸` &nbsp; TECH STACK
+
+<div>
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,typescript,nextjs,react,tailwind,postgres,supabase&theme=dark" alt="core stack"/>
+
+### Também trabalho com
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,js,html,css,mysql&theme=dark" alt="secondary stack"/>
+
+### Infra & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,redis,postman,vercel&theme=dark" alt="tools"/>
+
+</div>
+
+<br/>
+
+---
+
+## `▸` &nbsp; PROJETOS EM DESTAQUE
 
 <details>
 <summary><strong>Spreadsheet API</strong> — FastAPI • Python • PostgreSQL</summary>
@@ -126,25 +142,28 @@ Aplicação desktop pensada para rotinas administrativas, controle e organizaç�
 
 ---
 
-## <span style="color:#00D9FF">Objetivos Atuais</span>
+## `▸` &nbsp; OBJETIVOS ATUAIS
 
-```bash
-> current_mission
+```console
+nicolas@dev:~$ cat current_mission.log
 
-[✓] Evoluir em arquitetura de software
-[✓] Fortalecer backend e APIs
-[✓] Aprofundar em data structures and algorithms
-[✓] Construir produtos SaaS reais
-[✓] Explorar IA aplicada à automação
-[✓] Melhorar infraestrutura, deploy e observabilidade
+[ ██████████████████░░ ]  90%   →  Evoluir em arquitetura de software
+[ ████████████████░░░░ ]  80%   →  Fortalecer backend e APIs
+[ ██████████████░░░░░░ ]  70%   →  Construir produtos SaaS reais
+[ ████████████░░░░░░░░ ]  60%   →  Data structures and algorithms
+[ ██████████░░░░░░░░░░ ]  50%   →  IA aplicada à automação
+[ ████████░░░░░░░░░░░░ ]  40%   →  Infraestrutura, deploy e observabilidade
 
-status: IN PROGRESS
-progress: ████████████░░░░░░░░░ 73%
+status:   IN PROGRESS
+overall:  ████████████████░░░░░  73%
+
+nicolas@dev:~$ echo $MOTTO
+>> aprendendo todo dia, enviando código toda semana
+
+nicolas@dev:~$ _
 ```
 
----
-
-## <span style="color:#00D9FF">Snake Contribution Animation</span>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolasgrotto/nicolasgrotto/output/snake-dark.svg">
@@ -152,9 +171,11 @@ progress: ████████████░░░░░░░░░ 73%
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nicolasgrotto/nicolasgrotto/output/snake.svg">
 </picture>
 
+</div>
+
 ---
 
-## <span style="color:#00D9FF">Redes Sociais</span>
+## `▸` &nbsp; REDES SOCIAIS
 
 <div align="center">
 
@@ -171,6 +192,8 @@ progress: ████████████░░░░░░░░░ 73%
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,100:031A2D&height=140&section=footer&text=Building%20scalable%20software%20one%20commit%20at%20a%20time.&fontSize=22&fontColor=E6F1FF&animation=fadeIn&fontAlignY=70" width="100%" alt="Rodapé futurista" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,45:0B4F6C,100:031A2D&height=150&section=footer&text=Building%20scalable%20software%20one%20commit%20at%20a%20time.&fontSize=21&fontColor=E6F1FF&animation=fadeIn&fontAlignY=68" width="100%" alt="Rodapé futurista" />
+
+`system shutdown — session closed [ EOF ]`
 
 </div>
