@@ -46,7 +46,7 @@ Estou sempre buscando evoluir em backend, engenharia de software e soluções co
 
 ⚡ Automation, Infrastructure & DevOps
 
-<div> <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />  </div>
+<div> <img src="https://skillicons.dev/icons?i=docker,postman,linux,git,github" />  </div>
 
 🧠 AI & Integrations
 
