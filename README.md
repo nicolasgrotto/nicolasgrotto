@@ -179,10 +179,10 @@ nicolas@dev:~$ _
 
 <div align="center">
 
-<a href="https://nicolasgrotto.github.io/landing-page-apresentacao/" target="_blank">
+<a href="https://nicolasgrotto.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-0B1020?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
 </a>
-<a href="https://www.linkedin.com/in/nicolas-grotto-2453b927b/" target="_blank">
+<a href="https://www.linkedin.com/in/nicolas-o-grotto/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
 </a>
 
