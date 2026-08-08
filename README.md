@@ -9,7 +9,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/Status-ONLINE-00D9FF?style=for-the-badge&logo=ghost&logoColor=white" />
-<img src="https://img.shields.io/badge/Foco-Backend_%26_IA-38BDF8?style=for-the-badge&logo=codefactor&logoColor=white" />
+<img src="https://img.shields.io/badge/Foco-Full_Stack-38BDF8?style=for-the-badge&logo=codefactor&logoColor=white" />
 
 </div>
 
@@ -34,7 +34,7 @@ Estou sempre buscando evoluir em backend, engenharia de software e soluções co
 ## TECH STACK
 ⚙️ Backend & APIs
 
-<div> <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,cs,dotnet" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,cs" /> </div>
 
 🌐 Frontend & UI
 
@@ -42,11 +42,11 @@ Estou sempre buscando evoluir em backend, engenharia de software e soluções co
 
 🗄️ Database & Data
 
-<div> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,redis" /> </div>
 
 ⚡ Automation, Infrastructure & DevOps
 
-<div> <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />  </div>
+<div> <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />  </div>
 
 🧠 AI & Integrations
 
