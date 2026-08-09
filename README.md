@@ -73,7 +73,7 @@ print(me.say_hi())
 ## `▸` &nbsp; PROJETOS EM DESTAQUE
 
 <details>
-<summary><strong>Spreadsheet API</strong> — FastAPI • Python • PostgreSQL</summary>
+<summary><strong>Spreadsheet API</strong> — FastAPI • Python • PostgreSQL (Architectural planning complete. Code not built yet)</summary>
 
 <br>
 
@@ -89,7 +89,7 @@ API voltada para manipulação profissional de planilhas, com foco em limpeza, a
 </details>
 
 <details>
-<summary><strong>SaaS Multi Tenant</strong> — Laravel • Supabase • n8n • Docker</summary>
+<summary><strong>SaaS Multi Tenant</strong> — Laravel • Supabase • n8n • Docker (Architectural planning complete. Code not built yet)</summary>
 
 <br>
 
