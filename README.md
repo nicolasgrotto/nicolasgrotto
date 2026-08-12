@@ -89,7 +89,7 @@ API voltada para manipulação profissional de planilhas, com foco em limpeza, a
 </details>
 
 <details>
-<summary><strong>SaaS Multi Tenant</strong> — Laravel • Supabase • n8n • Docker (Architectural planning complete. Code not built yet)</summary>
+<summary><strong>SaaS Multi Tenant</strong> — Laravel • Supabase • n8n • Docker</summary>
 
 <br>
 
@@ -105,7 +105,7 @@ Plataforma white-label com foco em cobrança, automação e gestão multi-empres
 </details>
 
 <details>
-<summary><strong>WinToolkit</strong> — Python • Utilitários Windows</summary>
+<summary><strong>WinToolkit</strong> — Python • Utilitários Windows (Architectural planning complete. Code not built yet)</summary>
 
 <br>
 
@@ -193,7 +193,5 @@ nicolas@dev:~$ _
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,45:0B4F6C,100:031A2D&height=150&section=footer&text=Building%20scalable%20software%20one%20commit%20at%20a%20time.&fontSize=21&fontColor=E6F1FF&animation=fadeIn&fontAlignY=68" width="100%" alt="Rodapé futurista" />
-
-`system shutdown — session closed [ EOF ]`
 
 </div>
