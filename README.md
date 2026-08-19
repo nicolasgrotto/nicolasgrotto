@@ -34,28 +34,17 @@
 
 ---
 
-## `▸`   SOBRE MIM
+## `▸` SOBRE MIM
 
-```python
-class NicolasOliveira:
-    def __init__(self):
-        self.role      = "Backend Engineer · Full Stack Developer"
-        self.location  = "São Paulo, Brasil 🇧🇷"
-        self.focus     = ["APIs robustas", "Arquitetura de software",
-                          "Multi-tenant", "IA aplicada à automação"]
-        self.stack     = ["Python", "FastAPI", "Laravel", "TypeScript",
-                          "Next.js", "PostgreSQL"]
-        self.mindset   = "Código limpo, arquitetura em camadas, zero gambiarra"
+Sou **Nicolas Oliveira**, desenvolvedor Full-Stack, com foco em **Backend e Engenharia de Software**. Sempre busco construir sistemas modernos, bem estruturados e que resolvem problemas reais.
 
-    def say_hi(self):
-        return "Sempre aberto a novas conexões e bons projetos 🤝"
+- Atualmente, meus principais interesses estão em **APIs robustas, arquitetura de software, sistemas multi-tenant e automação com IA**. Gosto especialmente de entender como as diferentes partes de um sistema se conectam e de transformar requisitos complexos em soluções simples, escaláveis e fáceis de manter.
 
+- Minha stack principal envolve **Python, FastAPI, Laravel, TypeScript, Next.js e PostgreSQL**, além de ferramentas e tecnologias voltadas para infraestrutura, automação e desenvolvimento de sistemas.
 
-me = NicolasOliveira()
-print(me.say_hi())
-```
+- Mais do que escrever código, busco evoluir constantemente em **arquitetura, boas práticas e engenharia de software**, sempre valorizando código limpo, organização e decisões técnicas conscientes.
 
-> **`//`** Desenvolvedor que curte construir sistemas modernos, interfaces inteligentes e automações que resolvem problemas reais.
+> `//` Sempre aberto a novas conexões, ideias e bons projetos. 🤝
 
 ---
 
