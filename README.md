@@ -13,17 +13,28 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=940&height=60&lines=Full-Stack+Developer+%7C+AI+Automation+%7C+Backend-Focused;Construindo+produtos+escal%C3%A1veis+com+APIs%2C+IA+e+automa%C3%A7%C3%A3o;Arquitetura+de+software%2C+DevOps+e+engenharia+de+verdade" alt="Typing SVG" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-ONLINE-00D9FF?style=for-the-badge&logo=ghost&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Foco-Full_Stack-38BDF8?style=for-the-badge&logo=codefactor&logoColor=white&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/Local-Brasil-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1020" />
+<br>
 
 </div>
 
 ---
 
-## `▸` &nbsp; SOBRE MIM
+## `▸`   REDES SOCIAIS
+
+<div align="center">
+
+<a href="https://nicolasgrotto.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-0B1020?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
+</a>
+<a href="https://www.linkedin.com/in/nicolas-o-grotto/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+
+</div>
+
+---
+
+## `▸`   SOBRE MIM
 
 ```python
 class NicolasOliveira:
@@ -48,7 +59,10 @@ print(me.say_hi())
 
 ---
 
-## `▸` &nbsp; TECH STACK
+<details>
+<summary><h2> &nbsp; TECH STACK <code>[ expandir ]</code></h2></summary>
+     
+<br>
 
 <div>
 
@@ -66,14 +80,19 @@ print(me.say_hi())
 
 </div>
 
-<br/>
+<br>
+
+</details>
 
 ---
 
-## `▸` &nbsp; PROJETOS EM DESTAQUE
+<details>
+<summary><h2> &nbsp; PROJETOS EM DESTAQUE <code>[ expandir ]</code></h2></summary>
+
+<br>
 
 <details>
-<summary><strong>Spreadsheet API</strong> — FastAPI • Python • PostgreSQL (Architectural planning complete. Code not built yet)</summary>
+<summary><strong>Spreadsheet API</strong> — FastAPI • Python • PostgreSQL <em>(Architectural planning complete. Code not built yet)</em></summary>
 
 <br>
 
@@ -87,6 +106,19 @@ API voltada para manipulação profissional de planilhas, com foco em limpeza, a
 * Arquitetura escalável para evoluir com novas funções
 
 </details>
+
+<br>
+
+<details>
+<summary><strong>WinToolkit</strong> — Python • Utilitários Windows <em>(Architectural planning complete. Code not built yet)</em></summary>
+
+<br>
+
+Ferramenta em desenvolvimento para centralizar utilitários e automações no Windows, com foco em produtividade.
+
+</details>
+
+<br>
 
 <details>
 <summary><strong>SaaS Multi Tenant</strong> — Laravel • Supabase • n8n • Docker</summary>
@@ -104,14 +136,7 @@ Plataforma white-label com foco em cobrança, automação e gestão multi-empres
 
 </details>
 
-<details>
-<summary><strong>WinToolkit</strong> — Python • Utilitários Windows (Architectural planning complete. Code not built yet)</summary>
-
 <br>
-
-Ferramenta em desenvolvimento para centralizar utilitários e automações no Windows, com foco em produtividade.
-
-</details>
 
 <details>
 <summary><strong>Gestor Financeiro</strong> — Laravel • PHP • MySQL</summary>
@@ -122,6 +147,8 @@ Sistema desenvolvido para praticar arquitetura, CRUDs, autenticação e organiza
 
 </details>
 
+<br>
+
 <details>
 <summary><strong>Plataforma Web para Barbearia</strong> — Laravel • Frontend moderno</summary>
 
@@ -130,6 +157,8 @@ Sistema desenvolvido para praticar arquitetura, CRUDs, autenticação e organiza
 Projeto com foco em experiência visual, fluxo de atendimento e estrutura profissional para negócio local.
 
 </details>
+
+<br>
 
 <details>
 <summary><strong>Sistema Desktop para Barbearia</strong> — C# • Windows Forms</summary>
@@ -140,9 +169,16 @@ Aplicação desktop pensada para rotinas administrativas, controle e organizaç�
 
 </details>
 
+<br>
+
+</details>
+
 ---
 
-## `▸` &nbsp; OBJETIVOS ATUAIS
+<details>
+<summary><h2> &nbsp; OBJETIVOS ATUAIS <code>[ expandir ]</code></h2></summary>
+
+<br>
 
 ```console
 nicolas@dev:~$ cat current_mission.log
@@ -157,11 +193,15 @@ nicolas@dev:~$ cat current_mission.log
 status:   IN PROGRESS
 overall:  ████████████████░░░░░  73%
 
-nicolas@dev:~$ echo $MOTTO
->> aprendendo todo dia, enviando código toda semana
+nicolas@dev:~$ echo $STATUS
+ Focusing
 
 nicolas@dev:~$ _
 ```
+
+</details>
+
+---
 
 <div align="center">
 
@@ -170,21 +210,6 @@ nicolas@dev:~$ _
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolasgrotto/nicolasgrotto/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/nicolasgrotto/nicolasgrotto/output/snake.svg">
 </picture>
-
-</div>
-
----
-
-## `▸` &nbsp; REDES SOCIAIS
-
-<div align="center">
-
-<a href="https://nicolasgrotto.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-0B1020?style=for-the-badge&logo=vercel&logoColor=00D9FF" />
-</a>
-<a href="https://www.linkedin.com/in/nicolas-o-grotto/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
-</a>
 
 </div>
 
