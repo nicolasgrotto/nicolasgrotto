@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     NICOLAS OLIVEIRA · GITHUB PROFILE
+     NICOLAS GROTTO · GITHUB PROFILE
      Palette: #031A2D · #0B1020 · #00D9FF · #38BDF8 · #E6F1FF
      ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031A2D,55:0B4F6C,100:00D9FF&height=250&section=header&text=NICOLAS%20OLIVEIRA&fontSize=52&fontColor=E6F1FF&fontAlignY=33&animation=twinkling&desc=FULL%20STACK%20%20//%20%20N8N%20AUTOMATION%20%20//%20%20BACKEND%20FOCUSED&descSize=15&descAlignY=52" width="100%" alt="Banner de inicialização do sistema" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:031A2D,55:0B4F6C,100:00D9FF&height=250&section=header&text=NICOLAS%20GROTTO&fontSize=52&fontColor=E6F1FF&fontAlignY=33&animation=twinkling&desc=FULL%20STACK%20%20//%20%20N8N%20AUTOMATION%20%20//%20%20BACKEND%20FOCUSED&descSize=15&descAlignY=52" width="100%" alt="Banner de inicialização do sistema" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=700&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%3E+booting+system+core+.+.+.;%3E+loading+stack%3A+python+%7C+fastapi+%7C+laravel+%7C+next.js;%3E+authenticating+user%3A+nicolasgrotto+%5B+OK+%5D;%3E+all+systems+online+%5B+100%25+%5D" alt="Sequência de boot" />
 
@@ -36,7 +36,7 @@
 
 ## `▸` SOBRE MIM
 
-Sou **Nicolas Oliveira**, desenvolvedor Full-Stack, com foco em **Backend e Engenharia de Software**. Sempre busco construir sistemas modernos, bem estruturados e que resolvem problemas reais.
+Sou **Nicolas Grotto**, desenvolvedor Full-Stack, com foco em **Backend e Engenharia de Software**. Sempre busco construir sistemas modernos, bem estruturados e que resolvem problemas reais.
 
 - Atualmente, meus principais interesses estão em **APIs robustas, arquitetura de software, sistemas multi-tenant e automação com IA**. Gosto especialmente de entender como as diferentes partes de um sistema se conectam e de transformar requisitos complexos em soluções simples, escaláveis e fáceis de manter.
 
